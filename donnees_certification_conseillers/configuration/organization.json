@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "id": "241531ec-6eda-43e2-b005-58eecf994307",
+      "type": "ENTERPRISE",
+      "parentId": null,
+      "code": "BEX",
+      "name": "Banque Exemple",
+      "active": true
+    },
+    {
+      "id": "b0f5509f-913d-496c-9648-fa4a5e3e3b73",
+      "type": "REGION",
+      "parentId": "241531ec-6eda-43e2-b005-58eecf994307",
+      "code": "R-IDF",
+      "name": "Île-de-France",
+      "active": true
+    },
+    {
+      "id": "97a62299-256f-4e59-97d6-59e0e9987243",
+      "type": "REGION",
+      "parentId": "241531ec-6eda-43e2-b005-58eecf994307",
+      "code": "R-ARA",
+      "name": "Auvergne-Rhône-Alpes",
+      "active": true
+    },
+    {
+      "id": "4d3e98c9-de43-4e1f-b0a3-f6d5b4f8ea70",
+      "type": "SECTOR",
+      "parentId": "b0f5509f-913d-496c-9648-fa4a5e3e3b73",
+      "code": "S-PARIS",
+      "name": "Secteur Paris",
+      "active": true
+    },
+    {
+      "id": "7885d2d2-2e0c-41c4-949c-e0d204b70f2f",
+      "type": "SECTOR",
+      "parentId": "97a62299-256f-4e59-97d6-59e0e9987243",
+      "code": "S-LYON",
+      "name": "Secteur Lyon",
+      "active": true
+    },
+    {
+      "id": "23227929-79e2-49d9-b146-6eea5e8bcbe3",
+      "type": "AGENCY",
+      "parentId": "4d3e98c9-de43-4e1f-b0a3-f6d5b4f8ea70",
+      "code": "AG-PARIS-OP",
+      "name": "Agence Paris Opéra",
+      "active": true
+    },
+    {
+      "id": "0b65852d-3c9e-4f31-825a-f368cc6463ed",
+      "type": "AGENCY",
+      "parentId": "4d3e98c9-de43-4e1f-b0a3-f6d5b4f8ea70",
+      "code": "AG-PARIS-BA",
+      "name": "Agence Paris Bastille",
+      "active": true
+    },
+    {
+      "id": "72322d42-fef7-45bd-a4a5-e3968fc6f855",
+      "type": "AGENCY",
+      "parentId": "7885d2d2-2e0c-41c4-949c-e0d204b70f2f",
+      "code": "AG-LYON-BE",
+      "name": "Agence Lyon Bellecour",
+      "active": true
+    }
+  ]
+}

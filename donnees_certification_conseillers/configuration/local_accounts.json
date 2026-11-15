@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "id": "ef55af48-b26c-4927-ada7-dabff53fd9dc",
+      "login": "admin",
+      "displayName": "Administrateur",
+      "profiles": [
+        "ADMIN"
+      ],
+      "active": true,
+      "mustChange": true,
+      "salt": "tkpAi0ArgMpqrSFIEMj/Nw==",
+      "hash": "RGBnyHBeTyGkXD1hvVmRIKcopwlxi0ucCBUdyEglOv0=",
+      "iterations": 600000,
+      "algo": "PBKDF2-SHA256",
+      "scopeOrgIds": [],
+      "canImport": true,
+      "collaboratorId": "",
+      "createdAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "45b7142e-a088-4ab3-9c33-35411bec89c0",
+      "login": "gest.idf",
+      "displayName": "Gestionnaire Île-de-France",
+      "profiles": [
+        "MANAGER"
+      ],
+      "active": true,
+      "mustChange": true,
+      "salt": "tyV1SWneYFr14LzUmZDBWQ==",
+      "hash": "PcsjSA/2FdiPYIoNqCr911FIdlWIGao3oSiWx+D/K9Q=",
+      "iterations": 600000,
+      "algo": "PBKDF2-SHA256",
+      "scopeOrgIds": [
+        "b0f5509f-913d-496c-9648-fa4a5e3e3b73"
+      ],
+      "canImport": true,
+      "collaboratorId": "",
+      "createdAt": "2026-11-15T16:30:49Z"
+    }
+  ]
+}

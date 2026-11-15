@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "decimals": 2,
+      "statsOrgRule": "CURRENT",
+      "certificate": {
+        "title": "Certificat de réussite",
+        "issuer": "Banque Exemple",
+        "logoText": "BEX",
+        "mentions": "Certification interne des connaissances réglementaires. Ce certificat atteste de la réussite à l’évaluation annuelle et ne constitue pas une certification professionnelle réglementaire délivrée par une autorité.",
+        "signatory": "Direction de la Conformité",
+        "signatoryRole": "Banque Exemple"
+      },
+      "retentionMonths": {
+        "attempts": 60,
+        "certificates": 120,
+        "audit": 36
+      }
+    }
+  ]
+}

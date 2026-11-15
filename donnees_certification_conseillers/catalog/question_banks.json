@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "id": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "name": "Banque LCB-FT",
+      "description": "Lutte contre le blanchiment et le financement du terrorisme",
+      "createdAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "name": "Banque Protection de la clientèle",
+      "description": "Déontologie, réclamations, droits des clients",
+      "createdAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "name": "Banque Crédits",
+      "description": "Crédit à la consommation et immobilier",
+      "createdAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "name": "Banque Épargne, assurance et investissement",
+      "description": "Produits d’épargne, MIF 2, DDA",
+      "createdAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "name": "Banque Données et sécurité",
+      "description": "RGPD, fraude et sécurité",
+      "createdAt": "2026-11-15T16:30:49Z"
+    }
+  ]
+}

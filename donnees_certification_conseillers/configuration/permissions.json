@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "profile": "MANAGER",
+      "permissions": [
+        "self.take",
+        "self.results",
+        "results.scope",
+        "dash.scope",
+        "training.view",
+        "training.manage",
+        "training.import",
+        "audit.scope"
+      ]
+    }
+  ]
+}

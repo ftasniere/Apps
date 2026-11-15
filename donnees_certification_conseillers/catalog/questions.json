@@ -1,0 +1,2536 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "id": "CB-LCB-01",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Quel organisme reçoit en France les déclarations de soupçon des banques en matière de blanchiment ?",
+      "options": [
+        {
+          "id": "3c15b718",
+          "text": "La CNIL"
+        },
+        {
+          "id": "ae528809",
+          "text": "Tracfin"
+        },
+        {
+          "id": "c2699827",
+          "text": "L’AMF"
+        },
+        {
+          "id": "45494094",
+          "text": "Le Fonds de garantie des dépôts"
+        }
+      ],
+      "correct": [
+        "ae528809"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Tracfin est le service de renseignement financier chargé de recevoir et d’analyser les déclarations de soupçon.",
+      "category": "Organisation LCB-FT",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-02",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "TF",
+      "text": "Il est interdit d’informer le client qu’une déclaration de soupçon le concernant a été effectuée.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le conseiller est tenu à une obligation de confidentialité : informer le client est interdit.",
+      "category": "Déclaration de soupçon",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-03",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "TF",
+      "text": "Une déclaration de soupçon peut être faite même si l’opération suspecte n’a finalement pas été réalisée.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Une tentative d’opération doit aussi être déclarée dès lors qu’un soupçon existe.",
+      "category": "Déclaration de soupçon",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-04",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Qu’est-ce que le bénéficiaire effectif d’une personne morale cliente ?",
+      "options": [
+        {
+          "id": "297a4b2f",
+          "text": "Le gérant salarié de la société"
+        },
+        {
+          "id": "033d7ccd",
+          "text": "La personne physique qui détient ou contrôle en dernier lieu le client"
+        },
+        {
+          "id": "8bb489ef",
+          "text": "Le comptable de la société"
+        },
+        {
+          "id": "5de4a2a4",
+          "text": "Le notaire qui a rédigé les statuts"
+        }
+      ],
+      "correct": [
+        "033d7ccd"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le bénéficiaire effectif est la personne physique qui, en dernier lieu, possède ou contrôle le client (par exemple via le capital ou les droits de vote).",
+      "category": "Connaissance client",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-05",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "À partir de quel seuil de détention du capital ou des droits de vote présume-t-on généralement la qualité de bénéficiaire effectif ?",
+      "options": [
+        {
+          "id": "f08bdb62",
+          "text": "Plus de 5 %"
+        },
+        {
+          "id": "df8ecbda",
+          "text": "Plus de 10 %"
+        },
+        {
+          "id": "6439a2e9",
+          "text": "Plus de 25 %"
+        },
+        {
+          "id": "54b61488",
+          "text": "Plus de 50 % uniquement"
+        }
+      ],
+      "correct": [
+        "6439a2e9"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le seuil de référence est de plus de 25 % du capital ou des droits de vote, sans exclure d’autres formes de contrôle.",
+      "category": "Connaissance client",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-06",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Face à une personne politiquement exposée (PPE), quelle mesure s’impose ?",
+      "options": [
+        {
+          "id": "4c274e5e",
+          "text": "Aucune mesure particulière"
+        },
+        {
+          "id": "5abbd198",
+          "text": "Une vigilance renforcée"
+        },
+        {
+          "id": "c3ff227c",
+          "text": "Un refus systématique d’entrée en relation"
+        },
+        {
+          "id": "c2e8e7c5",
+          "text": "Une vigilance allégée"
+        }
+      ],
+      "correct": [
+        "5abbd198"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Les PPE présentent un risque accru : des mesures de vigilance renforcée (origine du patrimoine et des fonds, accord de la hiérarchie) s’appliquent.",
+      "category": "Vigilance",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-07",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "ORDER",
+      "text": "Classez les étapes classiques du blanchiment dans l’ordre.",
+      "options": [
+        {
+          "id": "2026a88e",
+          "text": "Placement"
+        },
+        {
+          "id": "3e924310",
+          "text": "Empilement (dispersion)"
+        },
+        {
+          "id": "923d266a",
+          "text": "Intégration"
+        }
+      ],
+      "correct": [],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Les fonds illicites sont d’abord placés dans le circuit financier, puis dispersés pour brouiller leur origine, enfin réinjectés dans l’économie légale.",
+      "category": "Typologies",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-08",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Pendant combien de temps conserve-t-on, en principe, les documents d’identification du client après la fin de la relation d’affaires ?",
+      "options": [
+        {
+          "id": "fe656fd5",
+          "text": "1 an"
+        },
+        {
+          "id": "16b3c8a9",
+          "text": "3 ans"
+        },
+        {
+          "id": "07c9c377",
+          "text": "5 ans"
+        },
+        {
+          "id": "6477f892",
+          "text": "30 ans"
+        }
+      ],
+      "correct": [
+        "07c9c377"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Les documents et informations relatifs à l’identité sont conservés 5 ans après la clôture du compte ou la fin de la relation.",
+      "category": "Conservation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-09",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Quel document est adapté pour vérifier l’identité d’un client personne physique ?",
+      "options": [
+        {
+          "id": "4c0bc077",
+          "text": "Une facture d’électricité"
+        },
+        {
+          "id": "86f3ea00",
+          "text": "Un document officiel en cours de validité comportant une photographie"
+        },
+        {
+          "id": "c03baf96",
+          "text": "Un relevé bancaire d’une autre banque"
+        },
+        {
+          "id": "75081e25",
+          "text": "Un justificatif de domicile"
+        }
+      ],
+      "correct": [
+        "86f3ea00"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’identité se vérifie à l’aide d’un document officiel en cours de validité avec photographie (carte d’identité, passeport…).",
+      "category": "Connaissance client",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-10",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCM",
+      "text": "Parmi ces éléments, lesquels relèvent des mesures de vigilance renforcée ?",
+      "options": [
+        {
+          "id": "6450b4bf",
+          "text": "Obtenir des informations complémentaires sur l’origine des fonds"
+        },
+        {
+          "id": "59bb822e",
+          "text": "Renforcer la fréquence de l’actualisation des informations du client"
+        },
+        {
+          "id": "ddb704bf",
+          "text": "Ne plus surveiller les opérations"
+        },
+        {
+          "id": "4ec92fb3",
+          "text": "Obtenir l’autorisation d’un niveau hiérarchique supérieur"
+        }
+      ],
+      "correct": [
+        "6450b4bf",
+        "59bb822e",
+        "4ec92fb3"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "La vigilance renforcée consiste à en savoir plus, à actualiser plus souvent et à faire valider la relation à un niveau supérieur.",
+      "category": "Vigilance",
+      "theme": "",
+      "difficulty": 3,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-11",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "TF",
+      "text": "Fractionner un versement en espèces en plusieurs petites opérations pour éviter un seuil de contrôle est un indice de blanchiment.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Ce « fractionnement » (structuring) est une typologie classique qui doit alerter le conseiller.",
+      "category": "Typologies",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-12",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "TF",
+      "text": "Les informations de connaissance du client n’ont pas besoin d’être mises à jour une fois la relation établie.",
+      "options": [],
+      "correct": [
+        "F"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Les informations doivent être actualisées régulièrement, selon le niveau de risque, et en cas d’événement significatif.",
+      "category": "Connaissance client",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-13",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "QCU",
+      "text": "Quelle autorité est notamment chargée du contrôle du respect des obligations LCB-FT par les banques en France ?",
+      "options": [
+        {
+          "id": "71d76f80",
+          "text": "Le tribunal de commerce"
+        },
+        {
+          "id": "c6180a02",
+          "text": "L’ACPR"
+        },
+        {
+          "id": "f4dbe94d",
+          "text": "La CNIL"
+        },
+        {
+          "id": "9bfc082c",
+          "text": "L’INSEE"
+        }
+      ],
+      "correct": [
+        "c6180a02"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’Autorité de contrôle prudentiel et de résolution (ACPR) contrôle les établissements et peut les sanctionner.",
+      "category": "Organisation LCB-FT",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-LCB-14",
+      "bankId": "9ca82885-6e0b-41d3-a1eb-3abc8536f988",
+      "type": "MATCH",
+      "text": "Associez chaque terme à sa définition.",
+      "options": [],
+      "correct": [],
+      "pairs": [
+        {
+          "id": "e3ce4fd9",
+          "left": "PPE",
+          "right": "Personne exposée à des fonctions publiques importantes"
+        },
+        {
+          "id": "ee11d5f0",
+          "left": "Tracfin",
+          "right": "Service de renseignement financier qui reçoit les déclarations de soupçon"
+        },
+        {
+          "id": "299db6be",
+          "left": "KYC",
+          "right": "Connaissance du client avant et pendant la relation"
+        },
+        {
+          "id": "92a82a85",
+          "left": "ACPR",
+          "right": "Autorité de contrôle des banques et assurances"
+        }
+      ],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Quatre notions de base de la lutte contre le blanchiment et le financement du terrorisme.",
+      "category": "Vocabulaire",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-01",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Quel est le niveau de garantie des dépôts par déposant et par établissement en France ?",
+      "options": [
+        {
+          "id": "8f812dc4",
+          "text": "50 000 €"
+        },
+        {
+          "id": "a436e9f8",
+          "text": "100 000 €"
+        },
+        {
+          "id": "86304391",
+          "text": "150 000 €"
+        },
+        {
+          "id": "1d3a9c43",
+          "text": "250 000 €"
+        }
+      ],
+      "correct": [
+        "a436e9f8"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le Fonds de garantie des dépôts et de résolution (FGDR) indemnise jusqu’à 100 000 € par déposant et par établissement.",
+      "category": "Garantie des dépôts",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-02",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "TF",
+      "text": "Un client mécontent peut saisir le médiateur sans que la banque ait d’abord traité sa réclamation.",
+      "options": [],
+      "correct": [
+        "F"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La saisine du médiateur intervient après un échec de la réclamation auprès de la banque (réponse insatisfaisante ou absente).",
+      "category": "Réclamations et médiation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-03",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Dans quel délai recommandé la banque accuse-t-elle réception d’une réclamation ?",
+      "options": [
+        {
+          "id": "b584e9e9",
+          "text": "24 heures"
+        },
+        {
+          "id": "5ee0f9e0",
+          "text": "10 jours ouvrables"
+        },
+        {
+          "id": "de6355e9",
+          "text": "2 mois"
+        },
+        {
+          "id": "915bd7ee",
+          "text": "Aucun délai"
+        }
+      ],
+      "correct": [
+        "5ee0f9e0"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Il est recommandé d’accuser réception sous 10 jours ouvrables et d’apporter une réponse dans un délai maximal de 2 mois.",
+      "category": "Réclamations et médiation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-04",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Une personne à qui une banque refuse l’ouverture d’un compte peut saisir :",
+      "options": [
+        {
+          "id": "5a34b2a3",
+          "text": "Le tribunal de police"
+        },
+        {
+          "id": "2113d6e8",
+          "text": "La Banque de France, au titre du droit au compte"
+        },
+        {
+          "id": "265b6eb6",
+          "text": "La DGCCRF uniquement"
+        },
+        {
+          "id": "bfcdce1f",
+          "text": "La CNIL"
+        }
+      ],
+      "correct": [
+        "2113d6e8"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "La Banque de France désigne un établissement tenu d’ouvrir un compte avec les services bancaires de base.",
+      "category": "Droit au compte",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-05",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "TF",
+      "text": "Le secret professionnel bancaire peut être opposé à l’ACPR dans le cadre de ses contrôles.",
+      "options": [],
+      "correct": [
+        "F"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le secret professionnel n’est pas opposable à l’ACPR, ni à l’autorité judiciaire dans une procédure pénale, ni à Tracfin.",
+      "category": "Secret bancaire",
+      "theme": "",
+      "difficulty": 3,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-06",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "TF",
+      "text": "Le conseiller doit mettre en garde un emprunteur non averti sur les risques de l’endettement lié à un crédit.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le devoir de mise en garde protège l’emprunteur non averti ; il s’ajoute aux obligations d’information et de conseil.",
+      "category": "Devoirs du conseiller",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-07",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Quel est le délai de rétractation applicable à un contrat conclu par démarchage bancaire ou financier ?",
+      "options": [
+        {
+          "id": "67b0a0ca",
+          "text": "7 jours"
+        },
+        {
+          "id": "0b3d87aa",
+          "text": "14 jours calendaires"
+        },
+        {
+          "id": "724a21d2",
+          "text": "30 jours"
+        },
+        {
+          "id": "85b66070",
+          "text": "Aucun délai"
+        }
+      ],
+      "correct": [
+        "0b3d87aa"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le client dispose en principe de 14 jours calendaires révolus pour se rétracter en cas de démarchage.",
+      "category": "Droit de rétractation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-08",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Qu’impose le principe de gestion des conflits d’intérêts ?",
+      "options": [
+        {
+          "id": "fb51dbf9",
+          "text": "Les ignorer s’ils sont mineurs"
+        },
+        {
+          "id": "e9e2a8fa",
+          "text": "Les identifier, les prévenir et les gérer au mieux de l’intérêt du client"
+        },
+        {
+          "id": "643cbc1b",
+          "text": "Les cacher au client"
+        },
+        {
+          "id": "0bc402c1",
+          "text": "Les confier au client"
+        }
+      ],
+      "correct": [
+        "e9e2a8fa"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’établissement doit identifier, prévenir et gérer les conflits d’intérêts, et informer le client en dernier recours.",
+      "category": "Déontologie",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-09",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "TF",
+      "text": "Le service d’aide à la mobilité bancaire est gratuit pour le client.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Ce service gratuit permet au client de changer de banque sans avoir à gérer lui-même le transfert de ses domiciliations.",
+      "category": "Mobilité bancaire",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-10",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCM",
+      "text": "Quels comportements sont conformes à la déontologie du conseiller ?",
+      "options": [
+        {
+          "id": "2dc03201",
+          "text": "Proposer le produit adapté aux besoins du client"
+        },
+        {
+          "id": "41479347",
+          "text": "Privilégier le produit à plus forte commission quel que soit le besoin"
+        },
+        {
+          "id": "7137da52",
+          "text": "Conserver la confidentialité des informations du client"
+        },
+        {
+          "id": "34d9ecdf",
+          "text": "Documenter les conseils donnés"
+        }
+      ],
+      "correct": [
+        "2dc03201",
+        "7137da52",
+        "34d9ecdf"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "Le conseil doit être adapté, confidentiel et traçable ; la rémunération ne doit pas orienter le conseil contre l’intérêt du client.",
+      "category": "Déontologie",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-11",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "TF",
+      "text": "Un client en situation de fragilité financière doit pouvoir bénéficier d’une offre spécifique.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Les banques doivent détecter les clients en fragilité financière et leur proposer une offre adaptée.",
+      "category": "Clientèle fragile",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-12",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "QCU",
+      "text": "Qui est responsable de la bonne application, au quotidien, des règles de conformité dans l’agence ?",
+      "options": [
+        {
+          "id": "ddf0decc",
+          "text": "Uniquement le service juridique central"
+        },
+        {
+          "id": "72d2d925",
+          "text": "Chaque collaborateur, dans son périmètre"
+        },
+        {
+          "id": "a1c19087",
+          "text": "Uniquement le directeur d’agence"
+        },
+        {
+          "id": "d3e82a4c",
+          "text": "Les clients"
+        }
+      ],
+      "correct": [
+        "72d2d925"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "La conformité est l’affaire de tous, avec le contrôle permanent et la fonction conformité en appui.",
+      "category": "Déontologie",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-13",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "MATCH",
+      "text": "Associez chaque institution à son rôle.",
+      "options": [],
+      "correct": [],
+      "pairs": [
+        {
+          "id": "f6be6150",
+          "left": "ACPR",
+          "right": "Contrôle des banques et assurances"
+        },
+        {
+          "id": "987eb351",
+          "left": "AMF",
+          "right": "Régulation des marchés financiers et protection des épargnants"
+        },
+        {
+          "id": "bea42ccf",
+          "left": "CNIL",
+          "right": "Protection des données personnelles"
+        },
+        {
+          "id": "dfebf32f",
+          "left": "Banque de France",
+          "right": "Droit au compte et fichiers d’incidents"
+        }
+      ],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Quatre institutions que le conseiller doit savoir distinguer.",
+      "category": "Institutions",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-PROT-14",
+      "bankId": "55ea801b-ee09-4e05-972b-d95a88735c3d",
+      "type": "ORDER",
+      "text": "Classez les étapes de traitement d’une réclamation client.",
+      "options": [
+        {
+          "id": "81e16114",
+          "text": "Enregistrer la réclamation"
+        },
+        {
+          "id": "28c85f21",
+          "text": "Accuser réception"
+        },
+        {
+          "id": "d36e96a1",
+          "text": "Instruire et analyser"
+        },
+        {
+          "id": "93628a0d",
+          "text": "Répondre au client"
+        },
+        {
+          "id": "5f1f3285",
+          "text": "Informer des voies de recours (médiateur)"
+        }
+      ],
+      "correct": [],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La réponse doit être motivée et rappeler le recours possible au médiateur.",
+      "category": "Réclamations et médiation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-01",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCM",
+      "text": "Quels éléments entrent dans le calcul du TAEG d’un crédit ?",
+      "options": [
+        {
+          "id": "a96e5d5e",
+          "text": "Les intérêts"
+        },
+        {
+          "id": "e37cd84e",
+          "text": "Les frais de dossier obligatoires"
+        },
+        {
+          "id": "d7af7091",
+          "text": "L’assurance exigée pour obtenir le crédit"
+        },
+        {
+          "id": "3a4c11f3",
+          "text": "La couleur de la carte bancaire"
+        }
+      ],
+      "correct": [
+        "a96e5d5e",
+        "e37cd84e",
+        "d7af7091"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "Le TAEG intègre l’ensemble des coûts obligatoires liés au crédit : intérêts, frais et assurance exigée.",
+      "category": "Coût du crédit",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-02",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "TF",
+      "text": "Le TAEG d’un crédit ne peut pas dépasser le taux de l’usure.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le taux de l’usure, publié par la Banque de France, est un plafond légal du TAEG.",
+      "category": "Coût du crédit",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-03",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Quel est le délai de rétractation d’un crédit à la consommation ?",
+      "options": [
+        {
+          "id": "097fba75",
+          "text": "7 jours"
+        },
+        {
+          "id": "98a7c348",
+          "text": "14 jours calendaires"
+        },
+        {
+          "id": "6a156563",
+          "text": "30 jours"
+        },
+        {
+          "id": "eb94e162",
+          "text": "Il n’y en a pas"
+        }
+      ],
+      "correct": [
+        "98a7c348"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’emprunteur dispose de 14 jours calendaires révolus à compter de l’acceptation de l’offre.",
+      "category": "Crédit consommation",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-04",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Quel délai de réflexion minimal s’applique après réception de l’offre de prêt immobilier ?",
+      "options": [
+        {
+          "id": "8615dfbc",
+          "text": "Aucun"
+        },
+        {
+          "id": "7f8047cb",
+          "text": "5 jours"
+        },
+        {
+          "id": "6442387e",
+          "text": "10 jours"
+        },
+        {
+          "id": "8411d2cc",
+          "text": "30 jours"
+        }
+      ],
+      "correct": [
+        "6442387e"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’emprunteur ne peut accepter l’offre qu’après un délai de réflexion de 10 jours.",
+      "category": "Crédit immobilier",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-05",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "TF",
+      "text": "Avant d’accorder un crédit à la consommation, la banque doit vérifier la solvabilité de l’emprunteur.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La vérification de la solvabilité, avec consultation du fichier FICP, est une obligation légale.",
+      "category": "Solvabilité",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-06",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Qui tient le FICP (fichier des incidents de remboursement des crédits aux particuliers) ?",
+      "options": [
+        {
+          "id": "d1003891",
+          "text": "La CNIL"
+        },
+        {
+          "id": "cd2ad46c",
+          "text": "La Banque de France"
+        },
+        {
+          "id": "c7b0dffd",
+          "text": "Chaque banque pour ses clients"
+        },
+        {
+          "id": "618de0ef",
+          "text": "L’AMF"
+        }
+      ],
+      "correct": [
+        "cd2ad46c"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le FICP est tenu par la Banque de France et consulté avant l’octroi d’un crédit.",
+      "category": "Solvabilité",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-07",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Quel taux d’effort maximal (assurance comprise) la décision du HCSF fixe-t-elle pour les crédits immobiliers ?",
+      "options": [
+        {
+          "id": "2db1b427",
+          "text": "25 %"
+        },
+        {
+          "id": "daa0e00e",
+          "text": "30 %"
+        },
+        {
+          "id": "ec70fe2a",
+          "text": "35 %"
+        },
+        {
+          "id": "647142ca",
+          "text": "50 %"
+        }
+      ],
+      "correct": [
+        "ec70fe2a"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le HCSF encadre l’octroi : taux d’effort maximal de 35 % et durée maximale de 25 ans, avec des marges de flexibilité limitées.",
+      "category": "Crédit immobilier",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-08",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Un client perçoit 2 000 € nets par mois et rembourse déjà 600 € de crédits. Quel est son taux d’endettement actuel ?",
+      "options": [
+        {
+          "id": "0b017cea",
+          "text": "20 %"
+        },
+        {
+          "id": "1ba128e6",
+          "text": "30 %"
+        },
+        {
+          "id": "74c4fadd",
+          "text": "35 %"
+        },
+        {
+          "id": "dd59d9b5",
+          "text": "60 %"
+        }
+      ],
+      "correct": [
+        "1ba128e6"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "600 / 2 000 = 30 %.",
+      "category": "Calculs",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-09",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Un prêt de 10 000 € à 0 % est remboursé en 25 mensualités égales. Quel est le montant de chaque mensualité ?",
+      "options": [
+        {
+          "id": "ad7e53fe",
+          "text": "250 €"
+        },
+        {
+          "id": "6f584feb",
+          "text": "400 €"
+        },
+        {
+          "id": "bd4b3446",
+          "text": "500 €"
+        },
+        {
+          "id": "ca771d5d",
+          "text": "1 000 €"
+        }
+      ],
+      "correct": [
+        "6f584feb"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "10 000 / 25 = 400 €.",
+      "category": "Calculs",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-10",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "TF",
+      "text": "Depuis 2022, un emprunteur peut résilier son assurance emprunteur à tout moment.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La loi du 28 février 2022 (« loi Lemoine ») permet la résiliation à tout moment, sans frais.",
+      "category": "Assurance emprunteur",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-11",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "TF",
+      "text": "Un consommateur peut rembourser par anticipation tout ou partie de son crédit à la consommation.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Ce droit existe à tout moment, une indemnité encadrée pouvant s’appliquer dans certains cas.",
+      "category": "Crédit consommation",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-12",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCM",
+      "text": "Quelles fiches d’information standardisées sont remises avant un crédit ?",
+      "options": [
+        {
+          "id": "0e00d461",
+          "text": "La FIPEN pour le crédit à la consommation"
+        },
+        {
+          "id": "d5bde61f",
+          "text": "La FISE pour le crédit immobilier"
+        },
+        {
+          "id": "e165f690",
+          "text": "Un relevé d’identité bancaire"
+        },
+        {
+          "id": "df11b729",
+          "text": "Une fiche météo"
+        }
+      ],
+      "correct": [
+        "0e00d461",
+        "d5bde61f"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "La FIPEN (conso) et la FISE (immobilier) présentent les caractéristiques du crédit de façon comparable.",
+      "category": "Information précontractuelle",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-13",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "ORDER",
+      "text": "Classez les étapes d’une demande de crédit à la consommation.",
+      "options": [
+        {
+          "id": "a7ffad96",
+          "text": "Recueillir le besoin du client"
+        },
+        {
+          "id": "5b8f6a44",
+          "text": "Vérifier la solvabilité et consulter le FICP"
+        },
+        {
+          "id": "4440933e",
+          "text": "Prendre la décision d’octroi"
+        },
+        {
+          "id": "2f882562",
+          "text": "Remettre l’offre de contrat"
+        },
+        {
+          "id": "bff9184d",
+          "text": "Laisser courir le délai de rétractation"
+        }
+      ],
+      "correct": [],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La vérification de la solvabilité précède toujours la décision et l’offre.",
+      "category": "Processus",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-CRED-14",
+      "bankId": "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb",
+      "type": "QCU",
+      "text": "Pendant combien de temps l’offre préalable de crédit à la consommation doit-elle rester valable au minimum ?",
+      "options": [
+        {
+          "id": "5693bf42",
+          "text": "3 jours"
+        },
+        {
+          "id": "80540224",
+          "text": "7 jours"
+        },
+        {
+          "id": "ac6d9370",
+          "text": "15 jours"
+        },
+        {
+          "id": "c3977792",
+          "text": "1 an"
+        }
+      ],
+      "correct": [
+        "ac6d9370"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’offre doit être maintenue pendant 15 jours minimum à compter de sa remise.",
+      "category": "Crédit consommation",
+      "theme": "",
+      "difficulty": 3,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-01",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Quel est le plafond du Livret A pour une personne physique ?",
+      "options": [
+        {
+          "id": "223c7f25",
+          "text": "12 000 €"
+        },
+        {
+          "id": "b9d7415b",
+          "text": "15 300 €"
+        },
+        {
+          "id": "c2daf8c0",
+          "text": "22 950 €"
+        },
+        {
+          "id": "474c3cab",
+          "text": "50 000 €"
+        }
+      ],
+      "correct": [
+        "c2daf8c0"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le plafond de dépôts du Livret A est de 22 950 € pour un particulier.",
+      "category": "Épargne réglementée",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-02",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Quel est le plafond du Livret de développement durable et solidaire (LDDS) ?",
+      "options": [
+        {
+          "id": "28d0dc54",
+          "text": "7 700 €"
+        },
+        {
+          "id": "b79fafb7",
+          "text": "12 000 €"
+        },
+        {
+          "id": "3c7e38e9",
+          "text": "22 950 €"
+        },
+        {
+          "id": "07d194ed",
+          "text": "30 000 €"
+        }
+      ],
+      "correct": [
+        "b79fafb7"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le LDDS est plafonné à 12 000 €.",
+      "category": "Épargne réglementée",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-03",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Quel est le plafond de versements d’un PEA classique ?",
+      "options": [
+        {
+          "id": "9605219b",
+          "text": "75 000 €"
+        },
+        {
+          "id": "4267b6f8",
+          "text": "100 000 €"
+        },
+        {
+          "id": "3ea1b675",
+          "text": "150 000 €"
+        },
+        {
+          "id": "71ecba32",
+          "text": "300 000 €"
+        }
+      ],
+      "correct": [
+        "3ea1b675"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le PEA est plafonné à 150 000 € de versements (225 000 € pour le PEA-PME, cumul avec le PEA limité à 225 000 €).",
+      "category": "Épargne financière",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-04",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Au bout de combien d’années la fiscalité de l’assurance-vie devient-elle plus favorable (abattement annuel sur les gains) ?",
+      "options": [
+        {
+          "id": "9ec982fc",
+          "text": "2 ans"
+        },
+        {
+          "id": "185ab767",
+          "text": "5 ans"
+        },
+        {
+          "id": "00ed8c76",
+          "text": "8 ans"
+        },
+        {
+          "id": "3ea7a149",
+          "text": "15 ans"
+        }
+      ],
+      "correct": [
+        "00ed8c76"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Après 8 ans, les gains bénéficient d’un abattement annuel (4 600 € pour une personne seule, 9 200 € pour un couple).",
+      "category": "Assurance-vie",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-05",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Quel est le délai de renonciation à un contrat d’assurance-vie ?",
+      "options": [
+        {
+          "id": "f61da7a2",
+          "text": "7 jours"
+        },
+        {
+          "id": "44879bfa",
+          "text": "14 jours"
+        },
+        {
+          "id": "c2543cc8",
+          "text": "30 jours calendaires"
+        },
+        {
+          "id": "8374226c",
+          "text": "60 jours"
+        }
+      ],
+      "correct": [
+        "c2543cc8"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le souscripteur peut renoncer dans les 30 jours calendaires révolus suivant la conclusion.",
+      "category": "Assurance-vie",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-06",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "TF",
+      "text": "Dans un contrat d’assurance-vie, les unités de compte ne bénéficient pas d’une garantie en capital.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "La valeur des unités de compte varie à la hausse comme à la baisse ; seul le fonds en euros garantit le capital.",
+      "category": "Assurance-vie",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-07",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "TF",
+      "text": "Un rendement espéré plus élevé s’accompagne en général d’un risque plus élevé.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Principe de base du lien entre rendement et risque.",
+      "category": "Risque et rendement",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-08",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "ORDER",
+      "text": "Classez ces placements du moins risqué au plus risqué.",
+      "options": [
+        {
+          "id": "d1d7a4d7",
+          "text": "Livret A"
+        },
+        {
+          "id": "7cb4b49c",
+          "text": "Fonds en euros"
+        },
+        {
+          "id": "1976e2cd",
+          "text": "Fonds obligataire"
+        },
+        {
+          "id": "a14a8aba",
+          "text": "Actions en direct"
+        }
+      ],
+      "correct": [],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le risque de perte en capital augmente de l’épargne réglementée vers les actions.",
+      "category": "Risque et rendement",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-09",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Au sens de MIF 2, quelles sont les catégories de clientèle ?",
+      "options": [
+        {
+          "id": "b98e656e",
+          "text": "Jeune, adulte, senior"
+        },
+        {
+          "id": "bd20e651",
+          "text": "Non professionnel, professionnel, contrepartie éligible"
+        },
+        {
+          "id": "c6d8d45e",
+          "text": "Débutant, confirmé, expert"
+        },
+        {
+          "id": "e18f1063",
+          "text": "Particulier, entreprise"
+        }
+      ],
+      "correct": [
+        "bd20e651"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "La directive MIF 2 distingue clients non professionnels, professionnels et contreparties éligibles, avec une protection décroissante.",
+      "category": "MIF 2",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-10",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCM",
+      "text": "Quels éléments le test d’adéquation (MIF 2) examine-t-il ?",
+      "options": [
+        {
+          "id": "97d0ce56",
+          "text": "Les connaissances et l’expérience du client"
+        },
+        {
+          "id": "5f49c4bf",
+          "text": "Sa situation financière"
+        },
+        {
+          "id": "c452b5da",
+          "text": "Ses objectifs d’investissement et sa tolérance au risque"
+        },
+        {
+          "id": "36e7fafb",
+          "text": "Sa couleur préférée"
+        }
+      ],
+      "correct": [
+        "97d0ce56",
+        "5f49c4bf",
+        "c452b5da"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "Ces trois éléments permettent de recommander des produits adaptés.",
+      "category": "MIF 2",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-11",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "TF",
+      "text": "La directive sur la distribution d’assurances (DDA) impose un conseil fondé sur les exigences et les besoins du client.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le distributeur doit recueillir les exigences et besoins avant de proposer un contrat adapté.",
+      "category": "Assurance",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-12",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "QCU",
+      "text": "Les intermédiaires en assurance, banque et finance sont immatriculés au registre :",
+      "options": [
+        {
+          "id": "c993f533",
+          "text": "Du commerce uniquement"
+        },
+        {
+          "id": "713fe129",
+          "text": "De l’ORIAS"
+        },
+        {
+          "id": "03b030fe",
+          "text": "De la CNIL"
+        },
+        {
+          "id": "c87357e7",
+          "text": "De l’INPI"
+        }
+      ],
+      "correct": [
+        "713fe129"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "L’ORIAS tient le registre unique des intermédiaires en assurance, banque et finance.",
+      "category": "Assurance",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-13",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "TF",
+      "text": "Les versements volontaires sur un PER individuel peuvent être déductibles du revenu imposable, dans certaines limites.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "C’est un avantage fiscal du PER, dans la limite d’un plafond annuel, avec une imposition à la sortie.",
+      "category": "Retraite",
+      "theme": "",
+      "difficulty": 3,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-EPAR-14",
+      "bankId": "4204fee3-a32a-4c63-b4df-b50f98662d9b",
+      "type": "MATCH",
+      "text": "Associez chaque produit à sa caractéristique.",
+      "options": [],
+      "correct": [],
+      "pairs": [
+        {
+          "id": "540df2b4",
+          "left": "Livret A",
+          "right": "Plafond de 22 950 €"
+        },
+        {
+          "id": "66f5c78d",
+          "left": "LDDS",
+          "right": "Plafond de 12 000 €"
+        },
+        {
+          "id": "3262fed9",
+          "left": "PEA",
+          "right": "Plafond de versements de 150 000 €"
+        },
+        {
+          "id": "71034919",
+          "left": "Assurance-vie",
+          "right": "Renonciation sous 30 jours"
+        }
+      ],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Quatre repères chiffrés à maîtriser en agence.",
+      "category": "Produits",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-01",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Quelle autorité française veille à l’application du RGPD ?",
+      "options": [
+        {
+          "id": "e28a8089",
+          "text": "L’ACPR"
+        },
+        {
+          "id": "eb098ebf",
+          "text": "La CNIL"
+        },
+        {
+          "id": "b64caba1",
+          "text": "Tracfin"
+        },
+        {
+          "id": "b2482b13",
+          "text": "La DGFiP"
+        }
+      ],
+      "correct": [
+        "eb098ebf"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "La CNIL est l’autorité de contrôle française en matière de protection des données.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-02",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "En cas de violation de données personnelles présentant un risque, sous quel délai notifie-t-on la CNIL ?",
+      "options": [
+        {
+          "id": "709cf8b4",
+          "text": "24 heures"
+        },
+        {
+          "id": "17713862",
+          "text": "72 heures"
+        },
+        {
+          "id": "81703ea5",
+          "text": "7 jours"
+        },
+        {
+          "id": "3ff25229",
+          "text": "30 jours"
+        }
+      ],
+      "correct": [
+        "17713862"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "La notification doit intervenir dans les 72 heures après la prise de connaissance, lorsque c’est possible.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-03",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Dans quel délai répond-on en principe à une demande d’accès d’un client à ses données ?",
+      "options": [
+        {
+          "id": "5be8e723",
+          "text": "48 heures"
+        },
+        {
+          "id": "fcf0da27",
+          "text": "Un mois"
+        },
+        {
+          "id": "f13a36da",
+          "text": "Un an"
+        },
+        {
+          "id": "06b83815",
+          "text": "Il n’y a pas de délai"
+        }
+      ],
+      "correct": [
+        "fcf0da27"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le délai de réponse est d’un mois, prolongeable dans certains cas.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-04",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "TF",
+      "text": "Le principe de minimisation impose de ne collecter que les données nécessaires à la finalité poursuivie.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Principe fondamental du RGPD.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-05",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "TF",
+      "text": "Les données relatives à la santé sont des données sensibles qui bénéficient d’une protection renforcée.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Elles relèvent des catégories particulières de données.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-06",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Qu’est-ce que le DPO ?",
+      "options": [
+        {
+          "id": "0da68326",
+          "text": "Un directeur du pilotage opérationnel"
+        },
+        {
+          "id": "fb8cc8e0",
+          "text": "Le délégué à la protection des données"
+        },
+        {
+          "id": "c64f45b6",
+          "text": "Un dispositif de paiement en ligne"
+        },
+        {
+          "id": "891fd699",
+          "text": "Un diplôme professionnel"
+        }
+      ],
+      "correct": [
+        "fb8cc8e0"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le délégué à la protection des données conseille et contrôle la conformité.",
+      "category": "RGPD",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-07",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Un client reçoit un mail prétendument de sa banque lui demandant son code confidentiel. De quoi s’agit-il et que faire ?",
+      "options": [
+        {
+          "id": "9738430c",
+          "text": "D’une procédure normale"
+        },
+        {
+          "id": "2b1243dd",
+          "text": "D’un hameçonnage : ne jamais communiquer ses codes et signaler le message"
+        },
+        {
+          "id": "d480629d",
+          "text": "D’une mise à jour obligatoire"
+        },
+        {
+          "id": "56e3f643",
+          "text": "D’une offre promotionnelle"
+        }
+      ],
+      "correct": [
+        "2b1243dd"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Une banque ne demande jamais le mot de passe ou le code confidentiel par mail, SMS ou téléphone.",
+      "category": "Fraude",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-08",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCM",
+      "text": "Quels sont des facteurs d’authentification forte (DSP2) ?",
+      "options": [
+        {
+          "id": "fa8f580a",
+          "text": "Quelque chose que l’on sait (code)"
+        },
+        {
+          "id": "6df43901",
+          "text": "Quelque chose que l’on possède (téléphone)"
+        },
+        {
+          "id": "dd62d3b2",
+          "text": "Quelque chose que l’on est (biométrie)"
+        },
+        {
+          "id": "e7a22165",
+          "text": "Son nom de famille"
+        }
+      ],
+      "correct": [
+        "fa8f580a",
+        "6df43901",
+        "dd62d3b2"
+      ],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": true,
+      "shuffle": true,
+      "explanation": "L’authentification forte combine au moins deux facteurs de catégories différentes : connaissance, possession, inhérence.",
+      "category": "Moyens de paiement",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-09",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Dans quel délai maximal un client doit-il signaler une opération de paiement non autorisée pour obtenir son remboursement ?",
+      "options": [
+        {
+          "id": "17d3f0eb",
+          "text": "48 heures"
+        },
+        {
+          "id": "e2a8a234",
+          "text": "8 jours"
+        },
+        {
+          "id": "9f3d7099",
+          "text": "13 mois"
+        },
+        {
+          "id": "25e74b5b",
+          "text": "5 ans"
+        }
+      ],
+      "correct": [
+        "9f3d7099"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Le client dispose de 13 mois à compter du débit, la banque devant le rembourser rapidement sauf soupçon de fraude.",
+      "category": "Moyens de paiement",
+      "theme": "",
+      "difficulty": 3,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-10",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "TF",
+      "text": "Un conseiller peut prêter son identifiant et son mot de passe à un collègue absent.",
+      "options": [],
+      "correct": [
+        "F"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Les accès sont strictement personnels ; un partage engage la responsabilité du titulaire.",
+      "category": "Sécurité",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-11",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "TF",
+      "text": "Il faut verrouiller sa session lorsqu’on quitte son poste, même brièvement.",
+      "options": [],
+      "correct": [
+        "T"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Le verrouillage évite tout accès non autorisé aux données des clients.",
+      "category": "Sécurité",
+      "theme": "",
+      "difficulty": 1,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-12",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "ORDER",
+      "text": "Classez les réflexes à adopter face à un incident de sécurité.",
+      "options": [
+        {
+          "id": "97de5a25",
+          "text": "Détecter et signaler"
+        },
+        {
+          "id": "8dc928c5",
+          "text": "Contenir l’incident"
+        },
+        {
+          "id": "d2e18d64",
+          "text": "Alerter le responsable sécurité et le DPO"
+        },
+        {
+          "id": "59cb8b41",
+          "text": "Documenter l’incident"
+        },
+        {
+          "id": "debdca91",
+          "text": "Notifier les autorités si nécessaire"
+        }
+      ],
+      "correct": [],
+      "pairs": [],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Signalement immédiat, confinement puis traçabilité sont essentiels.",
+      "category": "Sécurité",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-13",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "MATCH",
+      "text": "Associez chaque attaque à sa définition.",
+      "options": [],
+      "correct": [],
+      "pairs": [
+        {
+          "id": "5b1368f9",
+          "left": "Phishing",
+          "right": "Hameçonnage par courriel"
+        },
+        {
+          "id": "d3be6a3f",
+          "left": "Smishing",
+          "right": "Hameçonnage par SMS"
+        },
+        {
+          "id": "a6980bc9",
+          "left": "Vishing",
+          "right": "Hameçonnage par téléphone"
+        },
+        {
+          "id": "760926d2",
+          "left": "Rançongiciel",
+          "right": "Logiciel qui chiffre les données contre une rançon"
+        }
+      ],
+      "points": 2,
+      "scoring": "PARTIAL",
+      "penalty": false,
+      "shuffle": false,
+      "explanation": "Quatre formes d’attaque courantes.",
+      "category": "Fraude",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    },
+    {
+      "id": "CB-DATA-14",
+      "bankId": "0942ac19-b5be-46be-93f9-a4e02c3db9c2",
+      "type": "QCU",
+      "text": "Un faux conseiller téléphone à un client en prétextant une fraude et lui demande de valider une opération. Que lui répondre ?",
+      "options": [
+        {
+          "id": "40f95e96",
+          "text": "De valider rapidement"
+        },
+        {
+          "id": "41c47c17",
+          "text": "De raccrocher et de rappeler lui-même son agence au numéro habituel"
+        },
+        {
+          "id": "d60d882e",
+          "text": "De donner son code reçu par SMS"
+        },
+        {
+          "id": "261e83ea",
+          "text": "D’ignorer sa banque"
+        }
+      ],
+      "correct": [
+        "41c47c17"
+      ],
+      "pairs": [],
+      "points": 1,
+      "scoring": "ALL",
+      "penalty": false,
+      "shuffle": true,
+      "explanation": "Une validation n’est jamais demandée « pour annuler » une opération : en cas de doute, rappeler la banque soi-même.",
+      "category": "Fraude",
+      "theme": "",
+      "difficulty": 2,
+      "keywords": [],
+      "status": "PUBLISHED",
+      "version": 1,
+      "author": "admin",
+      "updatedAt": "2026-11-15T16:30:49Z"
+    }
+  ]
+}

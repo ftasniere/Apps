@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "id": "CERT-CB-V1",
+      "certificationId": "26d609e5-53b6-4a2b-b83d-c86e5c6fb155",
+      "number": 1,
+      "publishedAt": "2026-11-15T16:30:49Z",
+      "publishedBy": "admin",
+      "title": "Certification des conseillers bancaires",
+      "description": "Parcours annuel de certification des connaissances réglementaires et déontologiques des conseillers bancaires de la clientèle de particuliers.",
+      "objective": "Attester que le conseiller maîtrise les règles essentielles de son métier : LCB-FT, protection de la clientèle, crédits, épargne et assurance, protection des données.",
+      "availableFrom": "",
+      "availableTo": "",
+      "audience": {
+        "all": true,
+        "orgIds": []
+      },
+      "rules": {
+        "minGlobal": 80,
+        "keep": "BEST",
+        "maxAttempts": 3,
+        "maxSessions": 0,
+        "keepAcquired": true,
+        "acquiredMonths": 0,
+        "training": "MANDATORY",
+        "validityMonths": 12
+      },
+      "introduction": "Bienvenue dans la certification annuelle des conseillers. Vous passez cinq modules de 6 questions (10 minutes chacun). Notes minimales : 80/100 pour la conformité, 70/100 pour les autres modules ; note globale minimale : 80/100.",
+      "modules": [
+        {
+          "moduleId": "335f0c3c-c927-4d0d-8706-49fa754080d1",
+          "weight": 25,
+          "threshold": 80,
+          "mandatory": true,
+          "includeInScore": true,
+          "durationMin": 10,
+          "interruptAllowed": true,
+          "onLeave": "WARN",
+          "autoSubmit": true,
+          "warnMin": 2,
+          "mode": "EXAM",
+          "questionCount": 6,
+          "selection": "RANDOM",
+          "categories": [],
+          "difficulties": [],
+          "distribution": "",
+          "allowHelpDuring": false,
+          "introduction": "Ce module évalue vos réflexes en matière de connaissance client, de vigilance et de déclaration de soupçon. Le secret de la déclaration est absolu.",
+          "order": 1,
+          "moduleVersion": 1,
+          "code": "MOD-LCB",
+          "title": "Connaissance client et lutte anti-blanchiment (LCB-FT)",
+          "description": "Identifier le client, appliquer la vigilance adaptée et déclarer les soupçons.",
+          "objectives": "Maîtriser les obligations de connaissance client, de vigilance et de déclaration à Tracfin.",
+          "resources": [
+            {
+              "id": "f7824fb5-387d-4bf4-9855-3783b4f2fbd2",
+              "type": "LINK",
+              "title": "Tracfin",
+              "content": "https://www.economie.gouv.fr/tracfin",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "ad89e2ad-f58e-47ef-a217-902f82bd566b",
+              "type": "LINK",
+              "title": "ACPR",
+              "content": "https://acpr.banque-france.fr",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "553bd0f6-dab3-43cf-ac14-9b787b616a18",
+              "type": "TEXT",
+              "title": "À retenir",
+              "content": "Identifier et vérifier, surveiller dans la durée, déclarer sans informer le client, conserver 5 ans.",
+              "availability": "AFTER"
+            }
+          ],
+          "bankIds": [
+            "9ca82885-6e0b-41d3-a1eb-3abc8536f988"
+          ]
+        },
+        {
+          "moduleId": "87e8c8f0-7dde-41a4-afc2-234f69c33a0a",
+          "weight": 20,
+          "threshold": 80,
+          "mandatory": true,
+          "includeInScore": true,
+          "durationMin": 10,
+          "interruptAllowed": true,
+          "onLeave": "WARN",
+          "autoSubmit": true,
+          "warnMin": 2,
+          "mode": "EXAM",
+          "questionCount": 6,
+          "selection": "RANDOM",
+          "categories": [],
+          "difficulties": [],
+          "distribution": "",
+          "allowHelpDuring": false,
+          "introduction": "Ce module porte sur le devoir de conseil et de mise en garde, le traitement des réclamations, le droit au compte et la gestion des conflits d’intérêts.",
+          "order": 2,
+          "moduleVersion": 1,
+          "code": "MOD-PROT",
+          "title": "Protection de la clientèle et déontologie",
+          "description": "Respecter les droits des clients : conseil, réclamations, droit au compte, conflits d’intérêts.",
+          "objectives": "Appliquer les règles de protection de la clientèle et de déontologie.",
+          "resources": [
+            {
+              "id": "798a1630-f6f8-4869-9415-9fab677bef73",
+              "type": "LINK",
+              "title": "Fonds de garantie des dépôts et de résolution",
+              "content": "https://www.garantiedesdepots.fr",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "d5b2e56f-1c25-4d94-b8c9-04c627ac8819",
+              "type": "LINK",
+              "title": "AMF",
+              "content": "https://www.amf-france.org",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "96224c0a-3f8a-42fc-8ed2-c1b0d182f3dd",
+              "type": "TEXT",
+              "title": "À retenir",
+              "content": "Le client est au cœur du conseil : adapté, documenté, confidentiel.",
+              "availability": "AFTER"
+            }
+          ],
+          "bankIds": [
+            "55ea801b-ee09-4e05-972b-d95a88735c3d"
+          ]
+        },
+        {
+          "moduleId": "1f7fa0ba-26b1-4161-8b58-e637bcbed5e8",
+          "weight": 20,
+          "threshold": 70,
+          "mandatory": true,
+          "includeInScore": true,
+          "durationMin": 10,
+          "interruptAllowed": true,
+          "onLeave": "WARN",
+          "autoSubmit": true,
+          "warnMin": 2,
+          "mode": "EXAM",
+          "questionCount": 6,
+          "selection": "RANDOM",
+          "categories": [],
+          "difficulties": [],
+          "distribution": "",
+          "allowHelpDuring": false,
+          "introduction": "Ce module couvre le crédit à la consommation et le crédit immobilier : information précontractuelle, solvabilité, délais et calculs usuels.",
+          "order": 3,
+          "moduleVersion": 1,
+          "code": "MOD-CRED",
+          "title": "Crédits aux particuliers",
+          "description": "Instruire et présenter un crédit à la consommation ou immobilier dans le respect de la réglementation.",
+          "objectives": "Connaître les règles du crédit : TAEG, délais, solvabilité, encadrement.",
+          "resources": [
+            {
+              "id": "c3aad307-0a48-4a67-8424-780d01017b8d",
+              "type": "TEXT",
+              "title": "À retenir",
+              "content": "Solvabilité vérifiée, information standardisée remise, délais légaux respectés.",
+              "availability": "AFTER"
+            }
+          ],
+          "bankIds": [
+            "f879a0d5-4fbb-4b55-b2bf-e75d480abdbb"
+          ]
+        },
+        {
+          "moduleId": "fe373df7-d391-4cda-9ee5-b6928c184e91",
+          "weight": 20,
+          "threshold": 70,
+          "mandatory": true,
+          "includeInScore": true,
+          "durationMin": 10,
+          "interruptAllowed": true,
+          "onLeave": "WARN",
+          "autoSubmit": true,
+          "warnMin": 2,
+          "mode": "EXAM",
+          "questionCount": 6,
+          "selection": "RANDOM",
+          "categories": [],
+          "difficulties": [],
+          "distribution": "",
+          "allowHelpDuring": false,
+          "introduction": "Ce module évalue vos connaissances des produits d’épargne réglementée, de l’assurance-vie et du cadre MIF 2 / DDA.",
+          "order": 4,
+          "moduleVersion": 1,
+          "code": "MOD-EPAR",
+          "title": "Épargne, assurance et investissement",
+          "description": "Recommander des produits adaptés au profil du client (MIF 2, DDA).",
+          "objectives": "Conseiller des produits d’épargne, d’assurance et d’investissement adaptés.",
+          "resources": [
+            {
+              "id": "ce79395b-ac09-494f-a043-e77151ab5099",
+              "type": "LINK",
+              "title": "AMF",
+              "content": "https://www.amf-france.org",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "5286e42e-f9da-4e1f-b8f5-b53b33257b12",
+              "type": "TEXT",
+              "title": "À retenir",
+              "content": "Connaître son client, expliquer le risque, proposer un produit adapté.",
+              "availability": "AFTER"
+            }
+          ],
+          "bankIds": [
+            "4204fee3-a32a-4c63-b4df-b50f98662d9b"
+          ]
+        },
+        {
+          "moduleId": "dba814a0-381b-4ab9-92e9-64e56b9db9ea",
+          "weight": 15,
+          "threshold": 70,
+          "mandatory": true,
+          "includeInScore": true,
+          "durationMin": 10,
+          "interruptAllowed": true,
+          "onLeave": "WARN",
+          "autoSubmit": true,
+          "warnMin": 2,
+          "mode": "EXAM",
+          "questionCount": 6,
+          "selection": "RANDOM",
+          "categories": [],
+          "difficulties": [],
+          "distribution": "",
+          "allowHelpDuring": false,
+          "introduction": "Ce module traite du RGPD, de la sécurité du poste de travail et de la détection des fraudes (hameçonnage, faux conseillers).",
+          "order": 5,
+          "moduleVersion": 1,
+          "code": "MOD-DATA",
+          "title": "Protection des données et lutte contre la fraude",
+          "description": "Protéger les données des clients et reconnaître les tentatives de fraude.",
+          "objectives": "Appliquer le RGPD et les bons réflexes de sécurité.",
+          "resources": [
+            {
+              "id": "0f6eab26-8101-407e-ae48-3e2da7dfe7d5",
+              "type": "LINK",
+              "title": "CNIL",
+              "content": "https://www.cnil.fr",
+              "availability": "BEFORE"
+            },
+            {
+              "id": "4313105e-dbab-4c39-a7de-bbc99ec15d66",
+              "type": "TEXT",
+              "title": "À retenir",
+              "content": "Minimiser les données, ne jamais partager un accès, signaler tout incident immédiatement.",
+              "availability": "AFTER"
+            }
+          ],
+          "bankIds": [
+            "0942ac19-b5be-46be-93f9-a4e02c3db9c2"
+          ]
+        }
+      ]
+    }
+  ]
+}

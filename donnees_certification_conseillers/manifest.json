@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T16:30:49Z",
+  "data": [
+    {
+      "dataSetId": "17b9d8c9-7f2a-44a9-97b8-49f0cd8e54f7",
+      "schemaVersion": "1.0.0",
+      "applicationId": "CERTIFICATION_APP",
+      "applicationMinVersion": "1.0.0",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-15T16:30:49Z",
+      "files": {}
+    }
+  ]
+}
